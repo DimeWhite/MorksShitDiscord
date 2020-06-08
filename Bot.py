@@ -1,7 +1,4 @@
-import discord
-from discord import utils
 from discord.ext import commands
-from discord.ext.commands import bot
 from faceit_api import FaceitData
 import pyosu
 
